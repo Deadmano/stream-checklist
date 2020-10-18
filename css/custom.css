@@ -1,0 +1,11 @@
+* {
+    user-select: none;
+}
+
+.background {
+    background-color: #1a1a1b;
+}
+
+.complete {
+    text-decoration: line-through;
+}
