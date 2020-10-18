@@ -6,7 +6,7 @@ There aren't many bells or whistles, very plain and simple; edit the file in *[j
 
 ![Stream Checklist Preview](https://i.imgur.com/EV8YeIz.png)
 
-If using OBS you can embedded it as a custom dock as the above image by following these instructions;
+If using OBS you can embed it as a custom dock as the above image by following these instructions;
 
 - Click on *View*.
 - Mouse over *Docks*.
