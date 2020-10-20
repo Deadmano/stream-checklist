@@ -1,6 +1,6 @@
 # Stream Checklist
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FDeadmano%2Fstream-checklist) [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Deadmano/stream-checklist/blob/main/LICENSE) [![Discord](https://img.shields.io/discord/243415090856984593.svg?label=discord)](https://deadmano.com/discord) [![Twitter](https://img.shields.io/twitter/follow/PhillipStolic.svg?label=Show%20Some%20Love&style=social)](https://twitter.com/intent/follow?screen_name=PhillipStolic)
+[![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FDeadmano%2Fstream-checklist)](https://github.com/Deadmano/stream-checklist) [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Deadmano/stream-checklist/blob/main/LICENSE) [![Discord](https://img.shields.io/discord/243415090856984593.svg?label=discord)](https://deadmano.com/discord) [![Twitter](https://img.shields.io/twitter/follow/PhillipStolic.svg?label=Show%20Some%20Love&style=social)](https://twitter.com/intent/follow?screen_name=PhillipStolic)
 
 I put together a simple checklist that I personally use directly in OBS via a custom browser dock and have since been asked to share it as others may find it useful during their own livestreams.
 
