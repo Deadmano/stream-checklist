@@ -15,3 +15,5 @@ If using OBS you can embed it as a custom dock as the above image by following t
 - Click on *Custom Browser Docks...*
 - In the menu that appears, give the dock a name and point the URL to the *index.html* page.
   - *To get a local URL, just open the index.html file in your browser and copy the shown URL.*
+  
+If you have a question, found a bug, have a suggestion, or wish to request a feature then feel free to [create a new issue](https://github.com/Deadmano/stream-checklist/issues/new).
